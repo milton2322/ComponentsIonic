@@ -1,0 +1,12 @@
+
+<!--[titulo] aqui busca la variable titulo y muestra el valor que tiene si no muestra alert page  -->
+<app-header [titulo]="titulo || 'Alert Page' "></app-header>
+
+<ion-content>
+  <ion-button (click)="presentAlert()" expand="block"  shape="round">
+    Click me
+  </ion-button>
+  <ion-button (click)="secondAlert()" expand="block" color="secondary" shape="round">
+    Alert
+  </ion-button>
+</ion-content>

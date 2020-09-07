@@ -1,0 +1,43 @@
+  [
+    {   
+        "icon": "cafe-outline",
+        "name": "Action Sheet",
+        "redirecTo": "/action-sheet"
+      },
+      {
+        "icon": "alert-outline",
+        "name": "Alert",
+        "redirecTo": "/alert"
+      },
+      {
+        "icon": "man-outline",
+        "name": "Avatar",
+        "redirecTo": "/avatar"
+      },
+      {
+        "icon": "options-outline",
+        "name": "Fabs",
+        "redirecTo": "/fab"
+      },
+      {
+        "icon": "grid",
+        "name": "Grid - Rows",
+        "redirecTo": "/grid"
+      },
+      {
+        "icon": "layers-outline",
+        "name": "Modal",
+        "redirecTo": "/modal"
+      },
+      {
+        "icon": "search-outline",
+        "name": "search",
+        "redirecTo": "/searchbar"
+      },
+      {
+        "icon": "list-outline",
+        "name": "segment",
+        "redirecTo": "/segment"
+      }
+  ]
+  
